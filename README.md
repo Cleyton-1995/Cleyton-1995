@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Cleyton Costa
 
-- Sou formado e Ciências Contábeis, já estudei HTML e CSS, e atualmente estou estudando JAVASCRIPT.
+- Sou formado e Ciências Contábeis, estudei HTML e CSS, e atualmente estou estudando JAVASCRIPT.
 
 <div align="center">
   <a href="https://github.com/Cleyton-1995">
