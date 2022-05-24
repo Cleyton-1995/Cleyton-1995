@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Cleyton Costa
 
-- Sou formado e Ciências Contábeis, estudei HTML e CSS, e atualmente estou estudando JAVASCRIPT.
+- Sou desenvolvedor Front-End, React, vontado à linguagem Javascript, com 6 meses de experiência, focado na construção de interfaces modernas e interativas. Estou sempre a procura de novos desafios e por integrar equipes que querem transformar a vida das pessoas através da tecnologia.
 
 <div align="center">
   <a href="https://github.com/Cleyton-1995">
