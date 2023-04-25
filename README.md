@@ -1,7 +1,7 @@
 
-### Olá eu sou o Cleyton Costa
+### Hello, I'm Cleyton Costa
 
-- Sou desenvolvedor Front-End React e React-Native, com mais de 1 ano de experiência, focado na construção de interfaces modernas e interativas. Estou sempre a procura de novos desafios e por integrar equipes que querem transformar a vida das pessoas através da tecnologia.
+- I'm a Front-End React and React-Native developer, with more than 1 year of experience, focused on building modern and interactive interfaces. I'm always looking for new challenges and for joining teams that want to transform people's lives through technology.
 
 <div align="center">
   <a href="https://github.com/Cleyton-1995">
