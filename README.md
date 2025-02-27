@@ -1,8 +1,8 @@
 <h1>👋 &nbsp;Olá, eu sou o Cleyton, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
 
-<a href = "mailto:cleytoncosta.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleyton-costa-80960b20a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </a>
+<a href="https://www.linkedin.com/in/cleyton-costa-80960b20a"><img src="https://img.shields.io/badge/-Cleyton%20Costa-0077B5?style=flat-square&logo=linkedIn&logoColor=white"/></a>
+<a href="mailto:cleytoncosta.developer@gmail.com"><img src="https://img.shields.io/badge/-cleytoncosta.developer@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
